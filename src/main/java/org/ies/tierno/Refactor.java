@@ -56,7 +56,7 @@ public class Refactor {
     }
 
     public static void average() {
-        System.out.print("¿Cuantos numeros vas a introducir? ");
+        System.out.print("¿Cuántos numeros vas a introducir? ");
         int number = askPositiveNumber();
         double sum = 0;
         for (int i = 0; i < number; i++) {
