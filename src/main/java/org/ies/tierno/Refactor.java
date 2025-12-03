@@ -13,9 +13,9 @@ public class Refactor {
 
     public static void showMenu() {
         System.out.println("Elige una opción:");
-        System.out.println("1. Sumatorio");
-        System.out.println("2. Media");
-        System.out.println("3. Salir");
+        System.out.println("    1. Sumatorio");
+        System.out.println("    2. Media");
+        System.out.println("    3. Salir");
     }
 
     public static void menuOptions() {
